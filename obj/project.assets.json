@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\C#\\BaiTapKeThuaDaHinh\\BaiTap_KeThua&DaHinh.csproj",
       "projectName": "BaiTap_KeThua&DaHinh",
       "projectPath": "D:\\C#\\BaiTapKeThuaDaHinh\\BaiTap_KeThua&DaHinh.csproj",
       "packagesPath": "C:\\Users\\Tuyen\\.nuget\\packages\\",
       "outputPath": "D:\\C#\\BaiTapKeThuaDaHinh\\obj\\",
+=======
+      "projectUniqueName": "D:\\C#\\BaiTap_11-9-2024\\BaiTap_11-9-2024.csproj",
+      "projectName": "BaiTap_11-9-2024",
+      "projectPath": "D:\\C#\\BaiTap_11-9-2024\\BaiTap_11-9-2024.csproj",
+      "packagesPath": "C:\\Users\\Tuyen\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\BaiTap_11-9-2024\\obj\\",
+>>>>>>> 969b5754b61a3d047d8e971123c312394ba3fac2
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tuyen\\AppData\\Roaming\\NuGet\\NuGet.Config"
