@@ -1,0 +1,7 @@
+D:\C# git\BaiTap_2024_10_23\obj\Debug\net8.0-windows\BaiTap_2024_10_23.Form1.resources
+D:\C# git\BaiTap_2024_10_23\obj\Debug\net8.0-windows\BaiTap_2024_10_23.csproj.GenerateResource.cache
+D:\C# git\BaiTap_2024_10_23\obj\Debug\net8.0-windows\BaiTap_2024_10_23.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# git\BaiTap_2024_10_23\obj\Debug\net8.0-windows\BaiTap_2024_10_23.AssemblyInfoInputs.cache
+D:\C# git\BaiTap_2024_10_23\obj\Debug\net8.0-windows\BaiTap_2024_10_23.AssemblyInfo.cs
+D:\C# git\BaiTap_2024_10_23\obj\Debug\net8.0-windows\BaiTap_2024_10_23.csproj.CoreCompileInputs.cache
+D:\C# git\BaiTap_2024_10_23\obj\Debug\net8.0-windows\BaiTap_2024_10_23.sourcelink.json
