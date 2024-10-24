@@ -1,0 +1,28 @@
+﻿Bài 1: Tạo mảng số nguyên và tính tổng
+Đề bài:
+Viết chương trình C# để tạo một mảng gồm n số nguyên.
+Tính tổng các phần tử trong mảng và in kết quả ra màn hình.
+
+Hướng dẫn:
+Yêu cầu người dùng nhập vào số lượng phần tử trong mảng.
+Sử dụng vòng lặp for để nhập giá trị cho mảng.
+Sử dụng vòng lặp để tính tổng các phần tử.
+
+Bài 3: Tìm phần tử lớn nhất trong mảng
+Đề bài:
+Viết chương trình C# để tìm phần tử lớn nhất trong một mảng số nguyên.
+
+Hướng dẫn:
+Nhập mảng từ người dùng hoặc khởi tạo sẵn.
+Sử dụng vòng lặp for để tìm phần tử lớn nhất.
+
+
+Bài 5: Kiểm tra mảng đối xứng
+Đề bài:
+Viết chương trình C# để kiểm tra xem một mảng số nguyên có phải là mảng đối xứng (Palindrome) hay không.
+
+Hướng dẫn:
+Nhập mảng từ người dùng hoặc khởi tạo sẵn.
+Sử dụng vòng lặp để so sánh phần tử đầu với phần tử cuối, tiếp tục với các cặp phần tử kế tiếp.
+
+=> Gom lại thành 1 Class. Mỗi bài tập là 1 phương thức và gọi các phương thức trong hàm Main().

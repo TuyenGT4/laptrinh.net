@@ -1,0 +1,16 @@
+D:\C#\BaiTap_2024_10_24\obj\Debug\net8.0-windows\BaiTap_2024_10_24.Form1.resources
+D:\C#\BaiTap_2024_10_24\obj\Debug\net8.0-windows\BaiTap_2024_10_24.csproj.GenerateResource.cache
+D:\C#\BaiTap_2024_10_24\obj\Debug\net8.0-windows\BaiTap_2024_10_24.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BaiTap_2024_10_24\obj\Debug\net8.0-windows\BaiTap_2024_10_24.AssemblyInfoInputs.cache
+D:\C#\BaiTap_2024_10_24\obj\Debug\net8.0-windows\BaiTap_2024_10_24.AssemblyInfo.cs
+D:\C#\BaiTap_2024_10_24\obj\Debug\net8.0-windows\BaiTap_2024_10_24.csproj.CoreCompileInputs.cache
+D:\C#\BaiTap_2024_10_24\bin\Debug\net8.0-windows\BaiTap_2024_10_24.exe
+D:\C#\BaiTap_2024_10_24\bin\Debug\net8.0-windows\BaiTap_2024_10_24.deps.json
+D:\C#\BaiTap_2024_10_24\bin\Debug\net8.0-windows\BaiTap_2024_10_24.runtimeconfig.json
+D:\C#\BaiTap_2024_10_24\bin\Debug\net8.0-windows\BaiTap_2024_10_24.dll
+D:\C#\BaiTap_2024_10_24\bin\Debug\net8.0-windows\BaiTap_2024_10_24.pdb
+D:\C#\BaiTap_2024_10_24\obj\Debug\net8.0-windows\BaiTap_2024_10_24.dll
+D:\C#\BaiTap_2024_10_24\obj\Debug\net8.0-windows\refint\BaiTap_2024_10_24.dll
+D:\C#\BaiTap_2024_10_24\obj\Debug\net8.0-windows\BaiTap_2024_10_24.pdb
+D:\C#\BaiTap_2024_10_24\obj\Debug\net8.0-windows\BaiTap_2024_10_24.genruntimeconfig.cache
+D:\C#\BaiTap_2024_10_24\obj\Debug\net8.0-windows\ref\BaiTap_2024_10_24.dll
