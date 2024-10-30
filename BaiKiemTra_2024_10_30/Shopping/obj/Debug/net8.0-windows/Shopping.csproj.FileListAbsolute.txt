@@ -1,0 +1,17 @@
+D:\C# git\BaiKiemTra_2024_10_30\Shopping\obj\Debug\net8.0-windows\Shopping.Form1.resources
+D:\C# git\BaiKiemTra_2024_10_30\Shopping\obj\Debug\net8.0-windows\Shopping.csproj.GenerateResource.cache
+D:\C# git\BaiKiemTra_2024_10_30\Shopping\obj\Debug\net8.0-windows\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# git\BaiKiemTra_2024_10_30\Shopping\obj\Debug\net8.0-windows\Shopping.AssemblyInfoInputs.cache
+D:\C# git\BaiKiemTra_2024_10_30\Shopping\obj\Debug\net8.0-windows\Shopping.AssemblyInfo.cs
+D:\C# git\BaiKiemTra_2024_10_30\Shopping\obj\Debug\net8.0-windows\Shopping.csproj.CoreCompileInputs.cache
+D:\C# git\BaiKiemTra_2024_10_30\Shopping\obj\Debug\net8.0-windows\Shopping.sourcelink.json
+D:\C# git\BaiKiemTra_2024_10_30\Shopping\bin\Debug\net8.0-windows\Shopping.exe
+D:\C# git\BaiKiemTra_2024_10_30\Shopping\bin\Debug\net8.0-windows\Shopping.deps.json
+D:\C# git\BaiKiemTra_2024_10_30\Shopping\bin\Debug\net8.0-windows\Shopping.runtimeconfig.json
+D:\C# git\BaiKiemTra_2024_10_30\Shopping\bin\Debug\net8.0-windows\Shopping.dll
+D:\C# git\BaiKiemTra_2024_10_30\Shopping\bin\Debug\net8.0-windows\Shopping.pdb
+D:\C# git\BaiKiemTra_2024_10_30\Shopping\obj\Debug\net8.0-windows\Shopping.dll
+D:\C# git\BaiKiemTra_2024_10_30\Shopping\obj\Debug\net8.0-windows\refint\Shopping.dll
+D:\C# git\BaiKiemTra_2024_10_30\Shopping\obj\Debug\net8.0-windows\Shopping.pdb
+D:\C# git\BaiKiemTra_2024_10_30\Shopping\obj\Debug\net8.0-windows\Shopping.genruntimeconfig.cache
+D:\C# git\BaiKiemTra_2024_10_30\Shopping\obj\Debug\net8.0-windows\ref\Shopping.dll
