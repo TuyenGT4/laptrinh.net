@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Interface",
-    "\\Interface\\WinFormsApp1"
+    "\\Interface\\WinFormsApp1",
+    "\\ShoppingCartSolution"
   ],
-  "SelectedNode": "\\Interface\\WinFormsApp1\\WinFormsApp1.sln",
+  "SelectedNode": "\\Interface\\WinFormsApp1\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

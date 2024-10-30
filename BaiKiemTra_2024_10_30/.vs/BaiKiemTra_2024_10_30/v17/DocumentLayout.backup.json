@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\C# git\\BaiKiemTra_2024_10_30\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\WinFormsApp1\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\WinFormsApp1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\WinFormsApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\WinFormsApp1\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Interface\\WinFormsApp1\\Form1.Designer.cs",
               "ToolTip": "D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\Form1.Designer.cs",
               "RelativeToolTip": "Interface\\WinFormsApp1\\Form1.Designer.cs",
-              "ViewState": "AgIAANQAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T01:34:59.205Z",
               "EditorCaption": ""
@@ -36,12 +40,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\WinFormsApp1\\Program.cs",
+              "ToolTip": "D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "Interface\\WinFormsApp1\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:34:42.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Interface\\WinFormsApp1\\Form1.cs",
               "ToolTip": "D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\Form1.cs",
               "RelativeToolTip": "Interface\\WinFormsApp1\\Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T01:11:38.45Z",
               "EditorCaption": ""

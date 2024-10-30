@@ -1,4 +1,4 @@
-﻿namespace WinFormsApp1
+﻿namespace BaiKiemTra
 {
     partial class Form1
     {
@@ -29,23 +29,23 @@
         private void InitializeComponent()
         {
             groupBox1 = new GroupBox();
-            groupBox2 = new GroupBox();
             dataGridView1 = new DataGridView();
             ColumnImage = new DataGridViewTextBoxColumn();
             ColumnName = new DataGridViewTextBoxColumn();
             ColumnPrice = new DataGridViewTextBoxColumn();
             ColumnQuantity = new DataGridViewTextBoxColumn();
+            groupBox2 = new GroupBox();
+            btnPay = new Button();
+            btnRemove = new Button();
             dataGridView2 = new DataGridView();
             dataGridViewTextBoxColumn1 = new DataGridViewTextBoxColumn();
             dataGridViewTextBoxColumn2 = new DataGridViewTextBoxColumn();
             dataGridViewTextBoxColumn3 = new DataGridViewTextBoxColumn();
             dataGridViewTextBoxColumn4 = new DataGridViewTextBoxColumn();
             btnAdd = new Button();
-            btnRemove = new Button();
-            btnPay = new Button();
             groupBox1.SuspendLayout();
-            groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView2).BeginInit();
             SuspendLayout();
             // 
@@ -58,19 +58,6 @@
             groupBox1.TabIndex = 0;
             groupBox1.TabStop = false;
             groupBox1.Text = "Danh sách sản phẩm";
-            // 
-            // groupBox2
-            // 
-            groupBox2.Controls.Add(btnPay);
-            groupBox2.Controls.Add(btnRemove);
-            groupBox2.Controls.Add(dataGridView2);
-            groupBox2.Location = new Point(610, 12);
-            groupBox2.Name = "groupBox2";
-            groupBox2.Size = new Size(653, 626);
-            groupBox2.TabIndex = 1;
-            groupBox2.TabStop = false;
-            groupBox2.Text = "Giỏ hàng";
-            groupBox2.Enter += groupBox2_Enter;
             // 
             // dataGridView1
             // 
@@ -114,6 +101,38 @@
             ColumnQuantity.Name = "ColumnQuantity";
             ColumnQuantity.ReadOnly = true;
             ColumnQuantity.Width = 150;
+            // 
+            // groupBox2
+            // 
+            groupBox2.Controls.Add(btnPay);
+            groupBox2.Controls.Add(btnRemove);
+            groupBox2.Controls.Add(dataGridView2);
+            groupBox2.Location = new Point(610, 12);
+            groupBox2.Name = "groupBox2";
+            groupBox2.Size = new Size(653, 626);
+            groupBox2.TabIndex = 1;
+            groupBox2.TabStop = false;
+            groupBox2.Text = "Giỏ hàng";
+            groupBox2.Enter += groupBox2_Enter;
+            // 
+            // btnPay
+            // 
+            btnPay.Location = new Point(386, 547);
+            btnPay.Name = "btnPay";
+            btnPay.Size = new Size(180, 38);
+            btnPay.TabIndex = 3;
+            btnPay.Text = "Thanh toán";
+            btnPay.UseVisualStyleBackColor = true;
+            // 
+            // btnRemove
+            // 
+            btnRemove.Location = new Point(75, 547);
+            btnRemove.Name = "btnRemove";
+            btnRemove.Size = new Size(180, 38);
+            btnRemove.TabIndex = 2;
+            btnRemove.Text = "Xóa khỏi giỏ hàng";
+            btnRemove.UseVisualStyleBackColor = true;
+            btnRemove.Click += btnRemove_Click;
             // 
             // dataGridView2
             // 
@@ -165,24 +184,7 @@
             btnAdd.TabIndex = 2;
             btnAdd.Text = "Thêm vào giỏ hàng";
             btnAdd.UseVisualStyleBackColor = true;
-            // 
-            // btnRemove
-            // 
-            btnRemove.Location = new Point(75, 547);
-            btnRemove.Name = "btnRemove";
-            btnRemove.Size = new Size(180, 38);
-            btnRemove.TabIndex = 2;
-            btnRemove.Text = "Xóa khỏi giỏ hàng";
-            btnRemove.UseVisualStyleBackColor = true;
-            // 
-            // btnPay
-            // 
-            btnPay.Location = new Point(386, 547);
-            btnPay.Name = "btnPay";
-            btnPay.Size = new Size(180, 38);
-            btnPay.TabIndex = 3;
-            btnPay.Text = "Thanh toán";
-            btnPay.UseVisualStyleBackColor = true;
+            btnAdd.Click += btnAdd_Click;
             // 
             // Form1
             // 
@@ -194,9 +196,10 @@
             Controls.Add(groupBox1);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             groupBox1.ResumeLayout(false);
-            groupBox2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            groupBox2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)dataGridView2).EndInit();
             ResumeLayout(false);
         }
