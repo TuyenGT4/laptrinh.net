@@ -31,10 +31,6 @@
             groupBox1 = new GroupBox();
             button_Add = new Button();
             dataGridView1 = new DataGridView();
-            Column_Name = new DataGridViewTextBoxColumn();
-            Column_Image = new DataGridViewTextBoxColumn();
-            Column_Price = new DataGridViewTextBoxColumn();
-            Column_Quantity = new DataGridViewTextBoxColumn();
             groupBox2 = new GroupBox();
             label_Total = new Label();
             textBox_Total = new TextBox();
@@ -45,6 +41,10 @@
             dataGridViewTextBoxColumn2 = new DataGridViewTextBoxColumn();
             dataGridViewTextBoxColumn3 = new DataGridViewTextBoxColumn();
             dataGridViewTextBoxColumn4 = new DataGridViewTextBoxColumn();
+            Column_Name = new DataGridViewTextBoxColumn();
+            Column_Image = new DataGridViewTextBoxColumn();
+            Column_Price = new DataGridViewTextBoxColumn();
+            Column_Quantity = new DataGridViewTextBoxColumn();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             groupBox2.SuspendLayout();
@@ -70,6 +70,7 @@
             button_Add.TabIndex = 1;
             button_Add.Text = "Thêm vào giỏ hàng";
             button_Add.UseVisualStyleBackColor = true;
+            button_Add.Click += button_Add_Click;
             // 
             // dataGridView1
             // 
@@ -80,38 +81,7 @@
             dataGridView1.RowHeadersWidth = 62;
             dataGridView1.Size = new Size(597, 504);
             dataGridView1.TabIndex = 0;
-            // 
-            // Column_Name
-            // 
-            Column_Name.HeaderText = "Name";
-            Column_Name.MinimumWidth = 8;
-            Column_Name.Name = "Column_Name";
-            Column_Name.ReadOnly = true;
-            Column_Name.Width = 150;
-            // 
-            // Column_Image
-            // 
-            Column_Image.HeaderText = "Image";
-            Column_Image.MinimumWidth = 8;
-            Column_Image.Name = "Column_Image";
-            Column_Image.ReadOnly = true;
-            Column_Image.Width = 150;
-            // 
-            // Column_Price
-            // 
-            Column_Price.HeaderText = "Price";
-            Column_Price.MinimumWidth = 8;
-            Column_Price.Name = "Column_Price";
-            Column_Price.ReadOnly = true;
-            Column_Price.Width = 150;
-            // 
-            // Column_Quantity
-            // 
-            Column_Quantity.HeaderText = "Quantity";
-            Column_Quantity.MinimumWidth = 8;
-            Column_Quantity.Name = "Column_Quantity";
-            Column_Quantity.ReadOnly = true;
-            Column_Quantity.Width = 150;
+            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
             // groupBox2
             // 
@@ -153,6 +123,7 @@
             button_Pay.TabIndex = 3;
             button_Pay.Text = "Thanh toán";
             button_Pay.UseVisualStyleBackColor = true;
+            button_Pay.Click += button_Pay_Click;
             // 
             // button_Remove
             // 
@@ -162,6 +133,7 @@
             button_Remove.TabIndex = 2;
             button_Remove.Text = "Xóa khỏi giỏ hàng";
             button_Remove.UseVisualStyleBackColor = true;
+            button_Remove.Click += button_Remove_Click;
             // 
             // dataGridView2
             // 
@@ -172,6 +144,7 @@
             dataGridView2.RowHeadersWidth = 62;
             dataGridView2.Size = new Size(610, 362);
             dataGridView2.TabIndex = 1;
+            dataGridView2.CellContentClick += dataGridView2_CellContentClick;
             // 
             // dataGridViewTextBoxColumn1
             // 
@@ -205,6 +178,34 @@
             dataGridViewTextBoxColumn4.ReadOnly = true;
             dataGridViewTextBoxColumn4.Width = 150;
             // 
+            // Column_Name
+            // 
+            Column_Name.HeaderText = "Name";
+            Column_Name.MinimumWidth = 8;
+            Column_Name.Name = "Column_Name";
+            Column_Name.Width = 150;
+            // 
+            // Column_Image
+            // 
+            Column_Image.HeaderText = "Image";
+            Column_Image.MinimumWidth = 8;
+            Column_Image.Name = "Column_Image";
+            Column_Image.Width = 150;
+            // 
+            // Column_Price
+            // 
+            Column_Price.HeaderText = "Price";
+            Column_Price.MinimumWidth = 8;
+            Column_Price.Name = "Column_Price";
+            Column_Price.Width = 150;
+            // 
+            // Column_Quantity
+            // 
+            Column_Quantity.HeaderText = "Quantity";
+            Column_Quantity.MinimumWidth = 8;
+            Column_Quantity.Name = "Column_Quantity";
+            Column_Quantity.Width = 150;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
@@ -226,10 +227,6 @@
 
         private GroupBox groupBox1;
         private DataGridView dataGridView1;
-        private DataGridViewTextBoxColumn Column_Name;
-        private DataGridViewTextBoxColumn Column_Image;
-        private DataGridViewTextBoxColumn Column_Price;
-        private DataGridViewTextBoxColumn Column_Quantity;
         private Button button_Add;
         private GroupBox groupBox2;
         private Label label_Total;
@@ -241,5 +238,9 @@
         private DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
         private DataGridViewTextBoxColumn dataGridViewTextBoxColumn3;
         private DataGridViewTextBoxColumn dataGridViewTextBoxColumn4;
+        private DataGridViewTextBoxColumn Column_Name;
+        private DataGridViewTextBoxColumn Column_Image;
+        private DataGridViewTextBoxColumn Column_Price;
+        private DataGridViewTextBoxColumn Column_Quantity;
     }
 }

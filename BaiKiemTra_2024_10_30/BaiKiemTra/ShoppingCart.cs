@@ -26,6 +26,11 @@ namespace BaiKiemTra
             Products.Remove(product);
         }
 
+        public decimal GetTotal()
+        {
+            return Products.Sum(p => p.Price * p.Quantity);
+        }
+
         public List<Product> GetProducts()
         {
             return Products;
