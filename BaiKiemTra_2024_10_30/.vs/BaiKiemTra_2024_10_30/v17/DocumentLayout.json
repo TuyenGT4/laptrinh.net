@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "D:\\C# git\\BaiKiemTra_2024_10_30\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# git\\BaiKiemTra_2024_10_30\\View\\View.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View\\View.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# git\\BaiKiemTra_2024_10_30\\View\\View.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View\\View.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# git\\BaiKiemTra_2024_10_30\\View\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# git\\BaiKiemTra_2024_10_30\\View\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# git\\BaiKiemTra_2024_10_30\\View\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# git\\BaiKiemTra_2024_10_30\\Shopping\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopping\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\WinFormsApp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\WinFormsApp1\\WinFormsApp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -31,32 +55,95 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WinFormsApp1.csproj",
-              "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\WinFormsApp1.csproj",
-              "RelativeDocumentMoniker": "Interface\\WinFormsApp1\\WinFormsApp1.csproj",
-              "ToolTip": "D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\WinFormsApp1.csproj",
-              "RelativeToolTip": "Interface\\WinFormsApp1\\WinFormsApp1.csproj",
+              "Title": "View.csproj.user",
+              "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\View\\View.csproj.user",
+              "RelativeDocumentMoniker": "View\\View.csproj.user",
+              "ToolTip": "D:\\C# git\\BaiKiemTra_2024_10_30\\View\\View.csproj.user",
+              "RelativeToolTip": "View\\View.csproj.user",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-30T02:20:10.384Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-10-30T09:49:10.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WinFormsApp1.csproj.user",
-              "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\WinFormsApp1.csproj.user",
-              "RelativeDocumentMoniker": "Interface\\WinFormsApp1\\WinFormsApp1.csproj.user",
-              "ToolTip": "D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\WinFormsApp1.csproj.user",
-              "RelativeToolTip": "Interface\\WinFormsApp1\\WinFormsApp1.csproj.user",
+              "Title": "View.csproj",
+              "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\View\\View.csproj",
+              "RelativeDocumentMoniker": "View\\View.csproj",
+              "ToolTip": "D:\\C# git\\BaiKiemTra_2024_10_30\\View\\View.csproj",
+              "RelativeToolTip": "View\\View.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2024-10-30T02:20:09.094Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T09:49:08.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\View\\Program.cs",
+              "RelativeDocumentMoniker": "View\\Program.cs",
+              "ToolTip": "D:\\C# git\\BaiKiemTra_2024_10_30\\View\\Program.cs",
+              "RelativeToolTip": "View\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:49:07.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\View\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "View\\Form1.Designer.cs",
+              "ToolTip": "D:\\C# git\\BaiKiemTra_2024_10_30\\View\\Form1.Designer.cs",
+              "RelativeToolTip": "View\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:49:04.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "View\\Form1.cs",
+              "ToolTip": "D:\\C# git\\BaiKiemTra_2024_10_30\\View\\Form1.cs",
+              "RelativeToolTip": "View\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:49:03.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\Shopping\\Form1.cs",
+              "RelativeDocumentMoniker": "Shopping\\Form1.cs",
+              "ToolTip": "D:\\C# git\\BaiKiemTra_2024_10_30\\Shopping\\Form1.cs",
+              "RelativeToolTip": "Shopping\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:48:51.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WinFormsApp1.csproj",
+              "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeDocumentMoniker": "Interface\\WinFormsApp1\\WinFormsApp1.csproj",
+              "ToolTip": "D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeToolTip": "Interface\\WinFormsApp1\\WinFormsApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T02:20:10.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Interface\\WinFormsApp1\\Form1.Designer.cs",
@@ -64,12 +151,27 @@
               "RelativeToolTip": "Interface\\WinFormsApp1\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T01:34:59.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T01:34:59.205Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "WinFormsApp1.csproj.user",
+              "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\WinFormsApp1.csproj.user",
+              "RelativeDocumentMoniker": "Interface\\WinFormsApp1\\WinFormsApp1.csproj.user",
+              "ToolTip": "D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\WinFormsApp1.csproj.user",
+              "RelativeToolTip": "Interface\\WinFormsApp1\\WinFormsApp1.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-10-30T02:20:09.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\C# git\\BaiKiemTra_2024_10_30\\Interface\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Interface\\WinFormsApp1\\Form1.cs",
@@ -77,12 +179,7 @@
               "RelativeToolTip": "Interface\\WinFormsApp1\\Form1.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T01:11:38.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2024-10-30T01:11:38.45Z"
             }
           ]
         }

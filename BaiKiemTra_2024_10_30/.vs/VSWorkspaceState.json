@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Interface",
-    "\\Interface\\WinFormsApp1"
+    "\\View"
   ],
-  "SelectedNode": "\\Interface\\WinFormsApp1\\WinFormsApp1.sln",
+  "SelectedNode": "\\View\\Model",
   "PreviewInSolutionExplorer": false
 }
