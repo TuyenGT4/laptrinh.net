@@ -1,0 +1,16 @@
+C:\Users\Tuyen\source\repos\BaiTapQLSV\obj\Debug\net8.0-windows\BaiTapQLSV.Form1.resources
+C:\Users\Tuyen\source\repos\BaiTapQLSV\obj\Debug\net8.0-windows\BaiTapQLSV.csproj.GenerateResource.cache
+C:\Users\Tuyen\source\repos\BaiTapQLSV\obj\Debug\net8.0-windows\BaiTapQLSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuyen\source\repos\BaiTapQLSV\obj\Debug\net8.0-windows\BaiTapQLSV.AssemblyInfoInputs.cache
+C:\Users\Tuyen\source\repos\BaiTapQLSV\obj\Debug\net8.0-windows\BaiTapQLSV.AssemblyInfo.cs
+C:\Users\Tuyen\source\repos\BaiTapQLSV\obj\Debug\net8.0-windows\BaiTapQLSV.csproj.CoreCompileInputs.cache
+C:\Users\Tuyen\source\repos\BaiTapQLSV\bin\Debug\net8.0-windows\BaiTapQLSV.exe
+C:\Users\Tuyen\source\repos\BaiTapQLSV\bin\Debug\net8.0-windows\BaiTapQLSV.deps.json
+C:\Users\Tuyen\source\repos\BaiTapQLSV\bin\Debug\net8.0-windows\BaiTapQLSV.runtimeconfig.json
+C:\Users\Tuyen\source\repos\BaiTapQLSV\bin\Debug\net8.0-windows\BaiTapQLSV.dll
+C:\Users\Tuyen\source\repos\BaiTapQLSV\bin\Debug\net8.0-windows\BaiTapQLSV.pdb
+C:\Users\Tuyen\source\repos\BaiTapQLSV\obj\Debug\net8.0-windows\BaiTapQLSV.dll
+C:\Users\Tuyen\source\repos\BaiTapQLSV\obj\Debug\net8.0-windows\refint\BaiTapQLSV.dll
+C:\Users\Tuyen\source\repos\BaiTapQLSV\obj\Debug\net8.0-windows\BaiTapQLSV.pdb
+C:\Users\Tuyen\source\repos\BaiTapQLSV\obj\Debug\net8.0-windows\BaiTapQLSV.genruntimeconfig.cache
+C:\Users\Tuyen\source\repos\BaiTapQLSV\obj\Debug\net8.0-windows\ref\BaiTapQLSV.dll
