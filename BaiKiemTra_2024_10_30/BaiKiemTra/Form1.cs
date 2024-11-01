@@ -49,6 +49,7 @@ namespace BaiKiemTra
 
         private void UpdateTotal()
         {
+            // p => p.Price tương tự như foreach(product p in cart.getproducts())
             decimal total = cart.GetProducts().Sum(p => p.Price);
             textBox_Total.Text = total.ToString("C");
         }
